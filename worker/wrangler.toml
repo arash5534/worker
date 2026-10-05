@@ -1,2 +1,1 @@
-name = "abolfazlai، main = "worker/index.js"
-compatibility_date = "2026-10-05
+name = "my-ai-assistant", main = "worker/index.js",  compatibility_date = 2026-10-05
